@@ -282,8 +282,8 @@ if __name__ == "__main__":
     from optparse import OptionParser
     from os.path import splitext
 
-    import psyco
-    psyco.full()
+    #import psyco
+    #psyco.full()
 
     usage = "usage: %prog [-ma] [-p puzzle] [-f filename] [-g]"
 
